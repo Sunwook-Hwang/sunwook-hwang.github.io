@@ -69,7 +69,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 - **[ICLR 2025]**
   ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration [[Paper]](https://openreview.net/forum?id=I4iZmsV4HM)\
-  *Youngseok Kim, ** *Sunwook Hwang **, Hyung-Sin Kim, and Saewoong Bahk (** * Equal Contributor ** ) <br>
+  *Youngseok Kim, ***Sunwook Hwang**, Hyung-Sin Kim, and Saewoong Bahk (***Equal Contributor** ) <br>
 
 - **[IEEE/CVF ICCV 2023]**
   UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
