@@ -68,7 +68,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 ## Journals & Conferences
 
 - **[ICLR 2025]**
-  ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration [[Paper]](https://openreview.net/forum?id=I4iZmsV4HM)\
+  ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration [[Paper]](https://openreview.net/forum?id=I4iZmsV4HM) [[arXiv]](https://arxiv.org/abs/2503.06986)\
   *Youngseok Kim, **\*Sunwook Hwang**, Hyung-Sin Kim, and Saewoong Bahk (**\*Equal Contribution**) <br>
 
 - **[IEEE/CVF ICCV 2023]**
