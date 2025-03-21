@@ -4,7 +4,7 @@
 
 ## Profile
 
-### NPU Performance Engineer
+### NPU Performance Engineer, Ph.D.
 
 Digital IP/Circuit Chip Design \
 SOC IP Development Team (S.LSI)\
