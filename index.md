@@ -75,7 +75,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 - **[IEEE Access 2025]**
   FrameBoost: Advanced Video Analytics with Inference Trigger Frame Selection via Tracking Error Estimation [[Paper]](https://ieeexplore.ieee.org/document/10950362)\
-  Jin Mo Yang, **^Sunwook Hwang**, Jeongjun Park Kim, and \^Saewoong Bahk (**^Corresponding authors**) <br>
+  Jin Mo Yang, **^Sunwook Hwang**, Jeongjun Park Kim, and ^Saewoong Bahk (**^Corresponding authors**) <br>
 
 - **[IEEE/CVF ICCV 2023]**
   UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
