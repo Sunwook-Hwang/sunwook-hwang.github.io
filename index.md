@@ -61,7 +61,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 ## Current Collaborators
 
-- **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
+- **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D., Samsung Electronics [CP S/W Development])
 - **[Jin Mo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
 - **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
 
