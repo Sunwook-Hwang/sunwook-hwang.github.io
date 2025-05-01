@@ -119,6 +119,11 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 ### - Patents
 
+- Method for transmission resource allocation based on transmission resource prediction via V2V communication and apparatus for performing the method\
+  Jin Mo Yang, Saewoong Bahk, Hoyoung Yoon, **Sunwook Hwang**\
+  **Korean Patent 10-2698048-0000**, Aug. 2024.
+
+
 - Semi-supervised learning method for object detection in autonomous vehicle
   and server for performing semi-supervised learning for object detection in
   autonomous vehicle\
