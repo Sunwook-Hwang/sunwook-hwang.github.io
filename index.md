@@ -21,7 +21,7 @@ Samsung Electronics
 - SOC IP Development Team (S.LSI)
 - Sept. 2024 ~ Current
 
-#### - Seoul National University, Seoul, Korea
+#### - Seoul National University (SNU), Seoul, Korea
 - Postdoctoral Researcher (**Advisor - [Prof. Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty))**
 - Sept. 2023 ~ Aug. 2024
 
