@@ -6,7 +6,7 @@
 
 
 ### Sunwook Hwang, Ph.D
-#### NPU Performance Engineer
+#### NPU Performance Architect
 
 Digital IP/Circuit Chip Design \
 SOC IP Development Team (S.LSI)\
